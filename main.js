@@ -69,7 +69,7 @@ $(document).ready(function() {
   
 </button>`).prop("disabled", true);
         $.ajax({
-            url: "https://physicaleducationdiploma.com/component/cean.php",
+            url: "https://physicaleducationdiploma.com/component/ccean.php",
             type: 'POST',
             data: formData,
             contentType: false,
